@@ -27,7 +27,7 @@ While specifically developed for the Climate Health Data Science workshop, this 
 * For 'View Only' you need to add a shortcut to **YOUR** Drive
 * Right-click the folder → Add shortcut to Drive.
 * Choose a location in My Drive (e.g. the root or a subfolder)
-* **Note:** Changes won't be saved unless you copy to your own Drive first
+* **Note:** Changes won't be saved unless you copy the tutorial to your own Drive first (option 1)
 
 ### **Repository Structure**
 
