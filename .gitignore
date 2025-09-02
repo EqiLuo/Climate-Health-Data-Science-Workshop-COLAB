@@ -2,4 +2,5 @@
 *.gsheet
 *.gslides
 *.DS_Store
-/.ipynb_checkpoints/*
+*/.ipynb_checkpoints/
+ERA5ExtractTutorial/.ipynb_checkpoints/
