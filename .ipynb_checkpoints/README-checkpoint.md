@@ -23,10 +23,13 @@ While specifically developed for the Climate Health Data Science workshop, this 
 
 **Option 2: Direct Access (View Only)**
 
-* You can view and run notebooks directly from the shared folder  
-* For 'View Only' you need to add a shortcut to **YOUR** Drive
+* You can view and run notebooks directly from the shared folder
+* But, for 'View Only' you need to add a shortcut to **YOUR** Drive
 * Right-click the folder → Add shortcut to Drive.
 * Choose a location in My Drive (e.g. the root or a subfolder)
+* Now Navigate to any .ipynb file in your copied folder
+* Double-click to open it in Google Colab
+* If prompted, choose "Open with Google Colaboratory" (you may have to install the COLAB App to your Google Account)
 * **Note:** Changes won't be saved unless you copy to your own Drive first
 
 ### **Repository Structure**
